@@ -1,4 +1,4 @@
-install imagemagick for custom neofetch with image like .png|.jpg|.gif | for kitty terminal
+If image like .png|.jpg|.gif not working on neofetch you need install this | for kitty terminal
 ```
 sudo pacman -S imagemagick
 ```

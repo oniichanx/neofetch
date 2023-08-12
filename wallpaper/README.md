@@ -1,4 +1,4 @@
-![test](menhera.jpg)
+![test](https://github.com/oniichanx/neofetch/blob/main/wallpaper/Tira-27/menhera.jpg)
 ![test1](https://github.com/oniichanx/neofetch/blob/main/wallpaper/Tira-27/New%20Project.png)
 ![test2](https://github.com/oniichanx/neofetch/blob/main/wallpaper/Tira-27/New%20Project1.png)
 ![test3](https://github.com/oniichanx/neofetch/blob/main/wallpaper/Tira-27/New%20Project2.png)

@@ -1,6 +1,6 @@
 ![test](menhera.jpg)
-![test1](New Project.png)
-![test2](New Project1.png)
+![test1](New%Project.png)
+![test2](New%Project1.png)
 ![test3](New Project2.png)
 ![test4](New Project3.png)
 ![test5](New Project4.png)

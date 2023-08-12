@@ -10,3 +10,10 @@
 ![test9](https://github.com/oniichanx/neofetch/blob/main/wallpaper/Tira-27/New%20Project8.png)
 ![test10](https://github.com/oniichanx/neofetch/blob/main/wallpaper/Tira-27/New%20Project9.png)
 ![test11](https://github.com/oniichanx/neofetch/blob/main/wallpaper/Tira-27/New%20Project10.jpg)
+
+
+![test12](https://github.com/oniichanx/neofetch/blob/main/wallpaper/other/Cath.jpg)
+![test13](https://github.com/oniichanx/neofetch/blob/main/wallpaper/other/I1TXEgR.png)
+![test14](https://github.com/oniichanx/neofetch/blob/main/wallpaper/other/NTF4Vo7.png)
+![test15](https://github.com/oniichanx/neofetch/blob/main/wallpaper/other/astronaut.png)
+![test16](https://github.com/oniichanx/neofetch/blob/main/wallpaper/other/zvAlWy5.jpeg)

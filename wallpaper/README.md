@@ -9,4 +9,4 @@
 ![test8](https://github.com/oniichanx/neofetch/blob/main/wallpaper/New%20Project7.png)
 ![test9](https://github.com/oniichanx/neofetch/blob/main/wallpaper/New%20Project8.png)
 ![test10](https://github.com/oniichanx/neofetch/blob/main/wallpaper/New%20Project9.png)
-![test11](https://github.com/oniichanx/neofetch/blob/main/wallpaper/New%20Project10.png)
+![test11](https://github.com/oniichanx/neofetch/blob/main/wallpaper/New%20Project10.jpg)

@@ -5,6 +5,7 @@
   
   "modules-right": [
     //"hyprland/window",
+    "hyprland/language",
     "pulseaudio",
     "battery",
     "pulseaudio#microphone",
@@ -173,6 +174,14 @@
         "on-click": "~/.config/HyprV/waybar/scripts/update-sys update",
         "interval": 300,
         "tooltip": true
+    },
+
+    "hyprland/language": {
+        "interval": 30,
+        "format": " {}",
+        "keyboard-name": "rk-keyboard-5.1",
+        "on-click": "~/.config/HyprV/hyprv_util swkb",
+        "signal": 8
     },
 
   "custom/wl-gammarelay-temperature": {

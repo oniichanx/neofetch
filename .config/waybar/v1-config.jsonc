@@ -18,7 +18,8 @@
     "custom/updates",
   ],
 
-  "modules-left": [ 
+  "modules-left": [
+    "custom/launch_wofi", 
     "hyprland/workspaces",
     "tray",
     "network",
@@ -167,6 +168,12 @@
  
        "escape": true
 },
+
+    "custom/launch_wofi": {
+        "format": "󱗼",
+        "on-click": "sh -c '(sleep 0.5s; pkill wofi || wofi -c ~/.config/HyprV/wofi/config-lmenu)' & disown",
+        "tooltip": false
+    },
 
     "custom/updates": {
         "format": "{}",

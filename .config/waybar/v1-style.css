@@ -1,7 +1,7 @@
-@define-color bg0   #211a17;
-@define-color bg1   #362f2b;
+@define-color bg0   #C4C1E0;
+@define-color bg1   #9494db;
 @define-color tip   #221e1b;
-@define-color accent #8be9fd;
+@define-color accent #FFD8CB;
 @define-color text #ffffff;
 
 * {
@@ -65,6 +65,14 @@ tooltip {
 
 #tray {
     margin-left: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    transition: none;
+}
+
+#custom-light_dark {
+    color: @bg1;
+    margin-left: 0px;
     padding-left: 10px;
     padding-right: 10px;
     transition: none;

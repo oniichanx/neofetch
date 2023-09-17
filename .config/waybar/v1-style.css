@@ -3,6 +3,7 @@
 @define-color tip   #221e1b;
 @define-color accent #FFD8CB;
 @define-color text #ffffff;
+@define-color text1 #ffffff;
 
 * {
   border: none;
@@ -78,11 +79,19 @@ tooltip {
     transition: none;
 }
 
+#hyprland-language {
+  background: @bg1;
+  color: @text1;
+  padding: 0px 10px;
+  margin: 7px 0px;
+  border-radius: 5px;
+}
+
 #window {
-    margin-left: 5px;
-    padding-left: 10px;
-    padding-right: 10px;
-    transition: none;
+  margin-left: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  transition: none;
 }
 
 #workspaces {

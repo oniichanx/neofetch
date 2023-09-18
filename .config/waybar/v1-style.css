@@ -91,6 +91,7 @@ tooltip {
 #custom-light_dark {
     color: @bg1;
     margin-left: 0px;
+    margin-right: 7px;
     padding-left: 10px;
     padding-right: 10px;
     transition: none;

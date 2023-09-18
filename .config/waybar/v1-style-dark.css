@@ -99,7 +99,7 @@ tooltip {
   background: @bg1;
   color: @text;
   padding: 0px 10px;
-  margin: 7px 7px;
+  margin: 7px 5px;
   border-radius: 5px;
 }
 

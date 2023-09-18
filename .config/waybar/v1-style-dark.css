@@ -42,11 +42,19 @@ tooltip {
   border: 3px solid @bg1;
 }
 
-#custom-language, #custom-spotify, #custom-caffeine, #clock, #battery, #pulseaudio, #network, #tray, #backlight, #custom-wl-gammarelay-brightness, #custom-wl-gammarelay-temperature, #workspaces, #window, #cpu{
+#custom-language, #custom-spotify, #custom-caffeine, #clock, #battery, #pulseaudio, #network, #tray, #backlight, #custom-wl-gammarelay-brightness, #custom-wl-gammarelay-temperature, #workspaces, #window {
   background: @bg1;
   color: @text;
   padding: 0px 10px;
   margin: 7px 0px;
+  border-radius: 5px;
+}
+
+#cpu {
+  background: @bg1;
+  color: @text;
+  padding: 0px 10px;
+  margin: 7px 5px;
   border-radius: 5px;
 }
 

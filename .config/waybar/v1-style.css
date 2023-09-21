@@ -1,6 +1,6 @@
 @define-color bg0   #C4C1E0;
 @define-color bg1   #9494db;
-@define-color tip   #221e1b;
+@define-color tip   #9f9fdf;
 @define-color accent #FFD8CB;
 @define-color text #ffffff;
 @define-color text1 #ffffff;
@@ -38,6 +38,7 @@ window#waybar {
 }
 
 tooltip {
+  opacity: 0.8;
   background: @tip;
   border-radius: 10px;
   border: 3px solid @bg1;

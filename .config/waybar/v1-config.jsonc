@@ -107,6 +107,7 @@
   },
 */
 
+/*
   "network": {
 // "interface": "wlp2*", // (Optional) To force the use of this interface
     "format-wifi": "  {signalStrength}%",
@@ -116,7 +117,15 @@
     "format-disconnected": "Disconnected ⚠",
     "format-alt": "{ifname}:{essid} {ipaddr}/{cidr}"
   },
+*/
 
+  "network": {
+    "interval": 1,
+    "format": "󰣺 Connected",
+    "format-alt": " {bandwidthUpBytes} -  {bandwidthDownBytes}",
+    "format-disconnected": "󰣼 Disconnected",
+  },
+  
  "include": [
     "~/.config/HyprV/waybar/conf/mesu.jsonc",
     "~/.config/HyprV/waybar/conf/asus-rog.jsonc",

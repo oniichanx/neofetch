@@ -122,6 +122,14 @@ tooltip {
   border-radius: 5px;
 }
 
+#language {
+  background: @bg1;
+  color: @text1;
+  padding: 0px 10px;
+  margin: 7px 5px;
+  border-radius: 5px;
+}
+
 #window {
   margin-left: 5px;
   padding-left: 10px;

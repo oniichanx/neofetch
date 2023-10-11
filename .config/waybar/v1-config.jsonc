@@ -200,8 +200,8 @@
 
     "custom/updates": {
         "format": "{}",
-        "exec": "~/.config/HyprV/waybar/scripts/update-sys",
-        "on-click": "~/.config/HyprV/waybar/scripts/update-sys update",
+        "exec": "~/.config/HyprV/waybar/scripts/update1-sys",
+        "on-click": "~/.config/HyprV/waybar/scripts/update1-sys update",
         "interval": 300,
         "tooltip": true
     },

@@ -50,6 +50,7 @@
     }
   },
 
+
 /*
   "hyprland/workspaces": {
     "disable-scroll": false,
@@ -70,6 +71,31 @@
   //        "active": "",
   //        "default": "󰧞"
     }
+  },
+*/
+
+/*
+  "hyprland/workspaces": {
+    "active-only":false,
+    "all-outputs": true,
+    "format": "{icon}",
+    "on-click": "activate",
+    "on-scroll-up": "hyprctl dispatch workspace e+1",
+    "on-scroll-down": "hyprctl dispatch workspace e-1",
+    "show-special": false,
+    "persistent_workspaces":{
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+    },
+    "format": "{icon}",
+    "format-icons": {
+      "active": " 󰮯 ",
+      "default": "󰊠",
+      "persistent":"󰊠",
+    },
   },
 */
 
@@ -236,7 +262,7 @@
     "hyprland/language": {
         "interval": 30,
         "format": " {}",
-        "keyboard-name": "rk-keyboard-5.1",
+        "keyboard-name": "gtech-atk68",
         "on-click": "~/.config/HyprV/hyprv_util swkb",
         "signal": 8
     },

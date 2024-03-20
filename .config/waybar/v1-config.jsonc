@@ -127,7 +127,7 @@
   },
 
   "clock": {
-    "format": "{: %I:%M %p   %h %d %Y}",
+    "format": " {:%I:%M %p   %h %d %Y}",
     "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
     "calendar": {
        "mode": "month",

@@ -6,4 +6,4 @@ sudo pacman -S imagemagick
 To use New icon mouse for hypr:
 - extract to `~/.local/share/icons`
 - Add `env = HYPRCURSOR_THEME,theme_Bibata-Modern-Ice` to your hyprland config
-- Or just use hyprctl setcursor `HyprBibataModernClassicSVG 24`
+- Or just use hyprctl setcursor `theme_Bibata-Modern-Ice 24`

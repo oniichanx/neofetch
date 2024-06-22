@@ -18,4 +18,5 @@
 ![test15](https://github.com/oniichanx/neofetch/blob/main/wallpaper/other/zvAlWy5.jpeg)
 ![test16](https://github.com/oniichanx/neofetch/blob/main/wallpaper/other/astronaut.png)
 ![test17](https://github.com/oniichanx/neofetch/blob/main/wallpaper/other/taehoon-kang-16.jpg)
+![test18](https://github.com/oniichanx/neofetch/blob/main/wallpaper/other/wallhaven-6d1zll_1920x1080.png)
 

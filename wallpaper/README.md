@@ -14,7 +14,7 @@
 ![test13](https://github.com/oniichanx/neofetch/blob/main/wallpaper/Tira-27/New_Project12.png)
 ![test14](https://github.com/oniichanx/neofetch/blob/main/wallpaper/Tira-27/New_Project13.png)
 ![test15](https://github.com/oniichanx/neofetch/blob/main/wallpaper/Tira-27/New_Project14.png)
-![test16](https://github.com/oniichanx/neofetch/blob/main/wallpaper/Tira-27/NewProject15.jpg)
+![test16](https://github.com/oniichanx/neofetch/blob/main/wallpaper/Tira-27/New%20Project15.jpg)
 
 
 ![test17](https://github.com/oniichanx/neofetch/blob/main/wallpaper/other/Cath.jpg)
